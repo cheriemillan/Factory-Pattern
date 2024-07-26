@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cRyMRSz8/T9BWtq/tymQ0QHf7n27LEhnV4NWsZqEAtH/RS7cd2WMsq0+TV/ixOJ4oR3VPBkH82I0fEl8+SaKfg==",
+  "dgSpecHash": "3iERljCqoN6zOOMimr0R6cxnDGTTRphXY/WZ5f1J2OZEXVaYPc1PQM59H90nQozMIAnZA0vBPmQgZOl8wOA27w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\FactoryPattern\\FactoryPattern\\FactoryPattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\cheri\\OneDrive\\Desktop\\repos\\Factory-Pattern\\FactoryPattern\\FactoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cheri\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\cheri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\cheri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\cheri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }
